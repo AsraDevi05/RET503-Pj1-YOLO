@@ -1,0 +1,8 @@
+path: C:/KULIAHHHHH/SEMESTER 5/RE 503 Computer Vision dan Deep Learning/YOLO/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Asra
+  1: Ester
+  2: Herta
