@@ -1,0 +1,16 @@
+  NIM / Nama : 4222401020 / Asra Devi Fanitya
+  Dataset    : dataset_v1
+
+  Eksperimen         Perubahan     mAP50  mAP50-95      P      R     ms  menit
+  ---------------------------------------------------------------------------
+  E1_pretrained      -             0.971     0.659  0.942  0.978   56.3    136
+  E2_scratch         bobot acak    0.936     0.511  0.890  0.834   47.9    230
+  E3_imgsz416        imgsz=416     0.968     0.689  0.908  0.953   36.2     39
+
+  Model terpilih (mAP50-95 val tertinggi): E3_imgsz416
+
+  Hasil di data TEST (sekali saja):
+    all   P=0.948  R=0.951  mAP50=0.951  mAP50-95=0.712  24.4ms/img  ~41 FPS
+    Asra   P=0.960  R=1.000  mAP50=0.995  mAP50-95=0.757
+    Ester  P=0.958  R=1.000  mAP50=0.995  mAP50-95=0.862
+    Herta  P=0.927  R=0.852  mAP50=0.864  mAP50-95=0.517

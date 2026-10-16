@@ -1,0 +1,4 @@
+NIM,Nama,Dataset,Eksperimen,Perubahan,mAP50_val,mAP5095_val,P_val,R_val,ms,menit,terpilih,test_mAP50,test_mAP5095
+4222401020,Asra Devi Fanitya,dataset_v1,E1_pretrained,-,0.971,0.659,0.942,0.978,56.3,136,,,
+4222401020,Asra Devi Fanitya,dataset_v1,E2_scratch,bobot acak,0.936,0.511,0.89,0.834,47.9,230,,,
+4222401020,Asra Devi Fanitya,dataset_v1,E3_imgsz416,imgsz=416,0.968,0.689,0.908,0.953,36.2,39,ya,0.951,0.712
