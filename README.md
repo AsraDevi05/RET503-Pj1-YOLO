@@ -70,3 +70,5 @@ Herta memiliki mAP50-95 terendah (0.517), kemungkinan karena variasi jarak kuran
 - runs/detect/E1_pretrained/results.png
 - runs/detect/E3_imgsz416/results.png
 - README.md
+
+Program Studi Teknologi Rekayasa Robotika · Politeknik Negeri Batam
